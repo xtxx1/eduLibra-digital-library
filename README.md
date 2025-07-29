@@ -51,7 +51,7 @@ This repository showcases my expertise in:
 
 ## Tools and Methodologies
 
-- **Tools:** JIRA, Excel, Postman (for API testing)
+- **Tools:** Redmine, Google Suite, Excel, Postman (for API testing)
 - **Methodologies:** Agile Scrum, ISTQB-aligned QA processes
 
 ## Future Enhancements
