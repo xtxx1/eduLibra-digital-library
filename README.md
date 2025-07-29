@@ -1,4 +1,4 @@
-# EduLibra - AI-Powered Digital Library Platform
+# [EduLibra - AI-Powered Digital Library Platform](.1_product_description.md)
 
 Welcome to the EduLibra project portfolio, showcasing a comprehensive understanding of the Software Development Lifecycle (SDLC) and Software Testing Lifecycle (STLC). This repository demonstrates key documentation and processes used in developing EduLibra, an AI-Powered Digital Library Platform tailored for Indian Educational Institutions & Corporate Learning.
 
